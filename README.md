@@ -16,6 +16,10 @@ If you are interested, [check out](https://hub.docker.com/r/crazymax/) my other 
 
 💡 Want to be notified of new releases? Check out 🔔 [Diun (Docker Image Update Notifier)](https://github.com/crazy-max/diun) project!
 
+## HTB-Vancouver Edition and Documentation
+
+See the [/VC-HTB](https://github.com/htb-vancouver/docker-librenms/VC-HTB) folder for the information on our project for using LibreNMS as a local network mapping solution for SMOs.
+
 ## Demo
 
 [![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/librenms/docker/master/examples/pwd/librenms.yml)
